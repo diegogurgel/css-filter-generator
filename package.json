@@ -1,0 +1,24 @@
+{
+  "name": "css-filter-generator",
+  "version": "1.0.0",
+  "description": "This package will convert hexadecimal colors to CSS filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegogurgel/css-filter-generator.git"
+  },
+  "keywords": [
+    "css-filter-generator",
+    "filter-generator",
+    "coloring-images"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegogurgel/css-filter-generator/issues"
+  },
+  "homepage": "https://github.com/diegogurgel/css-filter-generator#readme"
+}
